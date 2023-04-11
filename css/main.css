@@ -563,3 +563,6 @@ width: 40%;
 .socials__link:hover .socials__icon {
     fill: var(--red);
 }
+.logo__pic{
+    background:url(../img/images/web-ready/content/logos/logo-main.png)
+}
