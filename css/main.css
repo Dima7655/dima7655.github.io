@@ -65,6 +65,12 @@ ul>li {
 
 }
 
+.mail:hover .mail__content {
+    background:var(--red);
+    color: #fff;
+    
+}
+
 .hero__content {
     position: absolute;
     top: 50%;
