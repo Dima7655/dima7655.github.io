@@ -381,7 +381,7 @@ ul>li {
     flex: 1;
     overflow: hidden;
     margin-right: 30px;
-    background: url(./img/images/web-ready/bg/pattern.png) center center / 500px;
+    background: url(../img/images/web-ready/bg/pattern.png) center center / 500px;
     position: relative;
 }
 
@@ -400,10 +400,10 @@ ul>li {
     background: center center / contain no-repeat ;
 }
 .collections__item--type-guys:before {
-    background-image: url(./img/images/web-ready/collections/collection_man.png);
+    background-image: url(../img/images/web-ready/collections/collection_man.png);
 }
 .collections__item--type-girls:before {
-    background-image: url(./img/images/web-ready/collections/collection_woman.png);
+    background-image: url(../img/images/web-ready/collections/collection_woman.png);
     top: -31%;
     width: 80%;
     left: -25%;
